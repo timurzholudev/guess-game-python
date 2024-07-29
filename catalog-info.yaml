@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: guess-game-python
+  annotations:
+    github.com/project-slug: timurzholudev/guess-game-python
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Timur
